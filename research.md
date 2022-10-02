@@ -19,25 +19,8 @@ permalink: /research/
 ## Papers Under Review
 6. Yanchen Jessie Ou, Alina Jade Barnett, Anika Mitra, Fides Regina Schwartz, Chaofan Chen, Lars Grimm, Joseph Y. Lo, and Cynthia Rudin. “A User Interface to Communicate Interpretable AI Decisions to Radiologists.” (2022). [Co-first author]
 
-## Awards
+## Grants
 1. $19,831.00 PI for a Duke Incubation Fund Award from the Duke Innovation & Entrepreneurship Initiative. A multi-department interdisciplinary project for superior interpretability on neural networks that analyze mammograms. 2019–2021.
-2. AI for Art 2019, Duke University $2500: A competition for art made using artificial intelligence. [Article link](https://today.duke.edu/2019/03/these-works-art-were-created-artificial-intelligence)
-3. NSERC IUSRA Natural Sciences & Engineering Research Council Industrial Undergraduate Student Re- search Award 2015, E-One Moli Energy $4500+
-4. NSERC USRA Natural Sciences & Engineering Research Council Undergraduate Student Research Award 2014, University of Toronto $4500+
-5. TRIPODS
-2021, Duke University
-6. Energy Data Analytics Fellowship 2019–2020, Duke University
-7. Graduate Fellowship
-Spring 2019, SAMSI – The Statistical and Applied Mathematical Sciences Institute
-8. Graduate Fellowship 2017–2018, Duke University
-9. The Catherine & Albert Roeder Memorial Scholarship (for highest cumulative average in Honours Physics) 2014, McMaster University
-10. The William McKeon Memorial Academic Grant in Physics (for high academic standing) 2013, McMaster University
-11. Deans’ Honours List
-2012–2013, 2013–2014, 2015–2016, McMaster University
-
-
-
-
 
 
 
