@@ -4,4 +4,4 @@ title: Felix
 permalink: /felix/
 ---
 
-(Felix)[./images/felix_headshot]
+![Felix](./images/felix_headshot)
