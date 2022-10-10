@@ -1,6 +1,6 @@
-Srikar's personal website
+Alina's personal website
 =====================================
-This is my website, built from Edo Airoldi's custom Jekyll theme. From Edo:
+This is my website, built from Srikar's website, which is built on Edo Airoldi's custom Jekyll theme. From Edo:
 
 "This is my custom Jekyll theme, very slightly modified from svmiller.github.io and volfovsky.github.io, plus new Academicons 1.9.1.
 
