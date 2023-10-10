@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Felix
+title: Mr. Frankfurter
 permalink: /felix/
 ---
 
